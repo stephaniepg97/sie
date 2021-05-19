@@ -10,6 +10,14 @@
 /lib/bonita-connector-email-impl-1.0.15.jar
 
 h2_database/bonita_journal.db.lock.db h2_database/business_data.db.lock.db
+h2_database/business_data.db.lock.db
+h2_database/bonita_journal.db.lock.db
+
+bdm/bom.xml
+.project
+
+web_page/newForm/newForm.json
+web_page/.metadata/.index.json
 
 # Classpath configuration for Bonita Studio. Automatically generated.
 .classpath
