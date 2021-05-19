@@ -9,6 +9,8 @@
 # You can also ignore in lib folder jar files related to connector provided by Bonita.
 /lib/bonita-connector-email-impl-1.0.15.jar
 
+h2_database/bonita_journal.db.lock.db h2_database/business_data.db.lock.db
+
 # Classpath configuration for Bonita Studio. Automatically generated.
 .classpath
 
