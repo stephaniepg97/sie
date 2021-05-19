@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connectorconfiguration:ConnectorConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:connectorconfiguration="http://wwww.bonitasoft.org/model/connector/configuration" xmlns:expression="http://www.bonitasoft.org/ns/studio/expression" definitionId="salesforce-querysobjects" version="1.0.1" name="salesforceAPI" modelVersion="7.12.0-004">
+  <parameters key="username">
+    <expression xsi:type="expression:Expression" name="rilah37331@animex98.com" content="rilah37331@animex98.com" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="password">
+    <expression xsi:type="expression:Expression" name="rilah!Sas@2" content="rilah!Sas@2" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="securityToken">
+    <expression xsi:type="expression:Expression" name="dhLSgmJICJNbB67ppq1oltC8r" content="dhLSgmJICJNbB67ppq1oltC8r" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="authEndpoint">
+    <expression xsi:type="expression:Expression" name="https://login.salesforce.com/services/Soap/u/24.0" content="https://login.salesforce.com/services/Soap/u/24.0" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="serviceEndpoint">
+    <expression xsi:type="expression:Expression" name="https://login.salesforce.com/services/Soap/u/24.0" content="https://login.salesforce.com/services/Soap/u/24.0" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="restEndpoint">
+    <expression xsi:type="expression:Expression" content="" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="proxyHost">
+    <expression xsi:type="expression:Expression" content="" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="proxyPort">
+    <expression xsi:type="expression:Expression" name="0" content="0" returnType="java.lang.Integer" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="proxyUsername">
+    <expression xsi:type="expression:Expression" content="" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="proxyPassword">
+    <expression xsi:type="expression:Expression" content="" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="connectionTimeout">
+    <expression xsi:type="expression:Expression" name="0" content="0" returnType="java.lang.Integer" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="readTimeout">
+    <expression xsi:type="expression:Expression" name="0" content="0" returnType="java.lang.Integer" returnTypeFixed="true"/>
+  </parameters>
+  <parameters key="query">
+    <expression xsi:type="expression:Expression" type="TYPE_PATTERN" returnTypeFixed="true"/>
+  </parameters>
+</connectorconfiguration:ConnectorConfiguration>
