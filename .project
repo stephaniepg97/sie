@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>Proccesso Assistência</name>
+=======
 	<name>Prestaser</name>
+>>>>>>> origin/master
 	<comment>7.12.1</comment>
 	<projects>
 	</projects>

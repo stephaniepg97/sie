@@ -95,19 +95,19 @@
           <connectors xmi:type="process:Connector" xmi:id="_aE_58EezEeiNRoAjsyTGDA" name="queryAccounts" definitionId="salesforce-querysobjects" event="ON_ENTER" throwErrorEvent="true" namedError="ERROR fetching sfaccounts" definitionVersion="1.0.1">
             <configuration xmi:type="connectorconfiguration:ConnectorConfiguration" xmi:id="_aFAhAEezEeiNRoAjsyTGDA" definitionId="salesforce-querysobjects" version="1.0.1" modelVersion="7.4.0-004">
               <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_aFAhAUezEeiNRoAjsyTGDA" key="username">
-                <expression xmi:type="expression:Expression" xmi:id="_aFAhAkezEeiNRoAjsyTGDA" name="&lt;email and password of your salesforce developer account>" content="&lt;email and password of your salesforce developer account>" returnTypeFixed="true"/>
+                <expression xmi:type="expression:Expression" xmi:id="_aFAhAkezEeiNRoAjsyTGDA" name="stephaniegaspar@ipleiria.pt" content="stephaniegaspar@ipleiria.pt"/>
               </parameters>
               <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_aFAhA0ezEeiNRoAjsyTGDA" key="password">
-                <expression xmi:type="expression:Expression" xmi:id="_aFAhBEezEeiNRoAjsyTGDA" name="pw" content="pw" returnTypeFixed="true"/>
+                <expression xmi:type="expression:Expression" xmi:id="_aFAhBEezEeiNRoAjsyTGDA" name="253197@sg" content="253197@sg"/>
               </parameters>
               <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_aFAhBUezEeiNRoAjsyTGDA" key="securityToken">
-                <expression xmi:type="expression:Expression" xmi:id="_aFAhBkezEeiNRoAjsyTGDA" name="aa" content="aa" returnTypeFixed="true"/>
+                <expression xmi:type="expression:Expression" xmi:id="_aFAhBkezEeiNRoAjsyTGDA" name="NhS8x1QfpnQeRLSxHVxyBggg" content="NhS8x1QfpnQeRLSxHVxyBggg"/>
               </parameters>
               <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_aFAhB0ezEeiNRoAjsyTGDA" key="authEndpoint">
-                <expression xmi:type="expression:Expression" xmi:id="_aFAhCEezEeiNRoAjsyTGDA" name="" content="" returnTypeFixed="true"/>
+                <expression xmi:type="expression:Expression" xmi:id="_aFAhCEezEeiNRoAjsyTGDA" name="" content=""/>
               </parameters>
               <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_aFAhCUezEeiNRoAjsyTGDA" key="serviceEndpoint">
-                <expression xmi:type="expression:Expression" xmi:id="_aFAhCkezEeiNRoAjsyTGDA" name="" content="" returnTypeFixed="true"/>
+                <expression xmi:type="expression:Expression" xmi:id="_aFAhCkezEeiNRoAjsyTGDA" name="" content=""/>
               </parameters>
               <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_aFAhC0ezEeiNRoAjsyTGDA" key="restEndpoint">
                 <expression xmi:type="expression:Expression" xmi:id="_aFAhDEezEeiNRoAjsyTGDA" content="" returnTypeFixed="true"/>
@@ -186,7 +186,7 @@
         <defaultValue xmi:type="expression:Expression" xmi:id="_Qo5MbkezEeiNRoAjsyTGDA" name="" content="" interpreter="GROOVY" type="TYPE_READ_ONLY_SCRIPT" returnType="java.lang.Object"/>
       </data>
       <formMapping xmi:type="process:FormMapping" xmi:id="_Qo5MckezEeiNRoAjsyTGDA">
-        <targetForm xmi:type="expression:Expression" xmi:id="_Qo5Mc0ezEeiNRoAjsyTGDA" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+        <targetForm xmi:type="expression:Expression" xmi:id="_pDLmwLjbEeu5Kf_I8XTnYg" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
       </formMapping>
       <overviewFormMapping xmi:type="process:FormMapping" xmi:id="_Qo5MdUezEeiNRoAjsyTGDA">
         <targetForm xmi:type="expression:Expression" xmi:id="_Qo5MdkezEeiNRoAjsyTGDA" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
